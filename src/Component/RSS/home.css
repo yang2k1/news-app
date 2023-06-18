@@ -1,0 +1,31 @@
+.home {
+    /* Thêm các kiểu CSS cho phần tổng thể của trang Home */
+}
+
+.category {
+    /* Thêm các kiểu CSS cho mỗi danh mục tin tức */
+}
+
+.category h3 {
+    /* Thêm các kiểu CSS cho tiêu đề danh mục */
+}
+
+.category .news-item {
+    /* Thêm các kiểu CSS cho từng tin tức */
+}
+
+.category .news-item .thumbnail {
+    /* Thêm các kiểu CSS cho ảnh đại diện của tin tức */
+}
+
+.category .news-item .title {
+    /* Thêm các kiểu CSS cho tiêu đề của tin tức */
+}
+
+.category .news-item .summary {
+    /* Thêm các kiểu CSS cho tóm tắt của tin tức */
+}
+
+.category .news-item .read-more {
+    /* Thêm các kiểu CSS cho nút đọc thêm */
+}
