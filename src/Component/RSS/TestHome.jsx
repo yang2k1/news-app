@@ -31,7 +31,7 @@ function TestHome() {
 
             const clusters = [];
             while (parsedPosts.length > 0) {
-                clusters.push(parsedPosts.splice(0, 6));
+                clusters.push(parsedPosts.splice(0, 5));
             }
 
             return clusters;
