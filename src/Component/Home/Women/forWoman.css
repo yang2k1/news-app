@@ -94,3 +94,18 @@
 a.post-content-right:hover {
     color: #78b43d;
 }
+
+#widget-pagination {
+    text-align: center;
+}
+#widget-pagination > button {
+    background-color: white;
+    border: 1px solid #dddddd;
+    height: 30px;
+    width: 30px;
+    color: #707070;
+}
+.pag-active {
+    background-color: palevioletred !important;
+    color: white !important;
+}
