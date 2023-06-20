@@ -1,0 +1,96 @@
+/*.widget {*/
+/*    margin-top: 20px;*/
+/*    overflow-x: auto;*/
+/*}*/
+/*.widget-title {*/
+/*    text-transform: uppercase;*/
+/*    font-weight: bold;*/
+/*    font-size: 18px;*/
+/*    color: #78b43d;*/
+/*    padding-bottom: 2px;*/
+/*    border-bottom: 2px solid #78b43d;*/
+/*}*/
+/*.widget-title >a {*/
+/*    color: inherit;*/
+/*    text-decoration: none;*/
+/*}*/
+/*#chungkhoan-title {*/
+/*    position: relative;*/
+/*    padding-left: 35px;*/
+/*}*/
+/*#chungkhoan-title > img {*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*}*/
+/*.chungkhoan-table {*/
+/*    width: 100%;*/
+/*    margin-top: 5px;*/
+/*    border: 1px solid #dddddd;*/
+/*    border-radius: 10px;*/
+/*}*/
+/*.chungkhoan-table a {*/
+/*    display: block;*/
+/*    color: black;*/
+/*    text-decoration: none;*/
+/*    font-size: 13px;*/
+/*    padding: 5px;*/
+/*    background-color: #eeeeee;*/
+/*}*/
+/*.chungkhoan-table th {*/
+/*    font-weight: bold;*/
+/*}*/
+/*.ck-increase {*/
+/*    color: green !important;*/
+/*    position: relative;*/
+/*}*/
+/*.ck-increase::before {*/
+/*    content: "";*/
+/*    position: absolute;*/
+/*    left: -10px;*/
+/*    top: 5px;*/
+/*    border: 4px solid transparent;*/
+/*    border-bottom-color: green;*/
+/*}*/
+/*.ck-decrease {*/
+/*    color: red !important;*/
+/*    position: relative;*/
+/*}*/
+/*.ck-decrease::before {*/
+/*    content: "";*/
+/*    position: absolute;*/
+/*    left: -10px;*/
+/*    top: 10px;*/
+/*    border: 4px solid transparent;*/
+/*    border-top-color: red;*/
+/*}*/
+
+/*#widget-pagination {*/
+/*    text-align: center;*/
+/*}*/
+/*#widget-pagination > button {*/
+/*    background-color: white;*/
+/*    border: 1px solid #dddddd;*/
+/*    height: 30px;*/
+/*    width: 30px;*/
+/*    color: #707070;*/
+/*}*/
+/*.pag-active {*/
+/*    background-color: palevioletred !important;*/
+/*    color: white !important;*/
+/*}*/
+/*.pink-dot li {*/
+/*    color: palevioletred;*/
+/*    list-style-type: disc;*/
+/*    margin: 10px 0 10px 20px;*/
+/*}*/
+/*.pink-dot a {*/
+/*    color: black;*/
+/*    font-size: 12px;*/
+/*    text-decoration: none;*/
+/*}*/
+/*.pink-dot a:hover {*/
+/*    color: #78b43d;*/
+/*}*/
+/*a.post-content-right:hover {*/
+/*    color: #78b43d;*/
+/*}*/
