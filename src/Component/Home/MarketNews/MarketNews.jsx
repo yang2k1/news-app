@@ -1,18 +1,7 @@
-import React, { useEffect, useState } from "react";
-// import { LoadRssTrangChu } from '../../RSS/NewService';
+import React from "react";
 import './marketNews.css'
 
 const MarketNews = () => {
-    // const [marketNews, setMarketNews] = useState([]);
-    //
-    // useEffect(() => {
-    //     LoadRssTrangChu(); // Call the function directly
-    //
-    //     // Clean up function if needed
-    //     return () => {
-    //         // Clean up logic here
-    //     };
-    // }, []);
 
     return (
         <div className="widget">

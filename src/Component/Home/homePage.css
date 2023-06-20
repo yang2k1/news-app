@@ -488,3 +488,6 @@ a.post-content-right:hover {
     background-color: palevioletred !important;
     color: white !important;
 }
+.menu-show {
+    display: block;
+}
