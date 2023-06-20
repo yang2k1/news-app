@@ -1,4 +1,5 @@
 import React from 'react';
+import './mainContent.css'
 
 const MainContent = () => {
     return (
@@ -24,6 +25,15 @@ const MainContent = () => {
                         <li><a href="https://www.24h.com.vn/tin-tuc-trong-ngay/thu-truong-bo-cong-an-tran-quoc-to-luong-tam-quang-duoc-thang-ham-thuong-tuong-c46a1322402.html">Thứ trưởng Bộ Công an Trần Quốc Tỏ, Lương Tam Quang...</a></li>
                         <li><a href="https://www.24h.com.vn/tin-tuc-trong-ngay/nguoi-dan-dia-phuong-noi-gi-ve-tinh-that-bong-lai-c46a1322398.html">Người dân địa phương nói gì về "Tịnh thất Bồng Lai"?</a></li>
                         <li><a href="https://www.24h.com.vn/tin-tuc-trong-ngay/bi-cao-tat-thanh-cang-dung-truoc-toa-hinh-su-la-mot-dau-xot-c46a1322393.html">Bị cáo Tất Thành Cang: Đứng trước tòa hình sự là một đau xót</a></li>
+                    </ul>
+                    <ul className="related-posts highlight-posts">
+                        <li><a title="Chính thức cấp phép sản xuất thuốc điều trị COVID-19 trong nước"
+                               href="https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-thuc-cap-phep-san-xuat-thuoc-dieu-tri-covid-19-trong-nuoc-c46a1322357.html">Chính
+                            thức cấp phép sản xuất thuốc điều trị...</a></li>
+                        <li><a
+                            title="Nuốt trọn cá sấu giả chết, trăn &quot;khủng&quot; bị con mồi phá toang bụng từ bên trong."
+                            href="https://www.24h.com.vn/tin-tuc-quoc-te/nuot-tron-ca-sau-gia-chet-tran-khung-bi-con-moi-pha-vo-toang-bung-tu-ben-trong-c415a1322101.html">Nuốt
+                            trọn cá sấu giả chết, trăn "khủng" bị con...</a></li>
                     </ul>
                 </li>
                 <li className="post-home">
