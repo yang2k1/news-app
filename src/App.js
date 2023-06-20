@@ -4,6 +4,7 @@ import Footer from "./Component/common/footer/Footer"
 import "./App.css"
 import {BrowserRouter as Router, Route} from "react-router-dom"
 import Homepages from "./Component/Home/Homepages";
+import TestHome from "./Component/RSS/TestHome";
 
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
     <>
       <Router>
           <Header />
+          {/*<TestHome/>*/}
           <Homepages/>
           <Footer/>
       </Router>
