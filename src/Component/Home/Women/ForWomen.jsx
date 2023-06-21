@@ -38,7 +38,7 @@ const PaginationExample = () => {
     return (
         <div className="widget">
             <h2 className="widget-title" style={{color: 'palevioletred', borderColor: 'palevioletred'}}>
-                <a href="">Dành riêng cho phái đẹp</a>
+                <a href="/lam-dep">Dành riêng cho phái đẹp</a>
             </h2>
             <div className="post-content">
                 <img src={items[activePage].image} alt="" />
